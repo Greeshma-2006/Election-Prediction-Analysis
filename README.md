@@ -18,10 +18,14 @@ This hypothesis reflects how technology, data, and design together can shape the
 ## 📊 Project Overview
 This project applies data analysis and machine learning to study and predict voter turnout trends in India:
 
-### Past Trends: Analysis of election turnout data for the last 10 years.
-### Present Insights: Understanding the current engagement level of voters.
-### Future Predictions: Projecting voter turnout for upcoming elections using ML.
-### Creative Outlook: Envisioning an AI-driven election system with digital bots to increase accuracy, trust, and participation.
+### Past Trends:
+Analysis of election turnout data for the last 10 years.
+### Present Insights:
+Understanding the current engagement level of voters.
+### Future Predictions:
+Projecting voter turnout for upcoming elections using ML.
+### Creative Outlook:
+Envisioning an AI-driven election system with digital bots to increase accuracy, trust, and participation.
 
 > 👉 After predicting through ML, the concept extends toward building a digital voting website with chatbot integration. This futuristic approach ensures that accuracy and participation rates spike significantly in coming years, shaping a stronger democratic process.
 
