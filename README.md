@@ -32,11 +32,12 @@ Envisioning an AI-driven election system with digital bots to increase accuracy,
 ## 📂 Datasets
 The datasets used were collected from the **Open Government Data (OGD) Platform India**:
 
-- **National Election Prediction Data (Table 43.2 – India)**  
-  📌 Source: data.gov.in
+- **[National Election Prediction Data (Table 43.2 – India)](https://www.data.gov.in/catalog/election-lok-sabha-house-people)**  
+  📌 Source: [data.gov.in](https://www.data.gov.in/)
 
-- **Election Dataset File**  
-  📌 Source: data.gov.in
+- **[Election Dataset File](https://www.data.gov.in/catalog/general-election-lok-sabha-2024-statistical-reports-data)**  
+  📌 Source: [data.gov.in](https://www.data.gov.in/)
+
 
 Both datasets provide voter participation, turnout percentages, and related statistics, forming the basis of this analysis.
 
