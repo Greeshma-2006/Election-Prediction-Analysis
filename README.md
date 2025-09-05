@@ -56,8 +56,3 @@ This project was prepared as part of the INAE Youth Conclave 2025 under the them
 “AI in Social Engineering for a Better Tomorrow.”
 
 Team **Ballots to Bots** proudly presents this as a blend of data storytelling, creative foresight, and machine learning.
-
-
-**Install Required Libraries:**
-```bash
-pip install pandas matplotlib scikit-learn
